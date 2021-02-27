@@ -1,0 +1,7 @@
+.sconsign**
+*.py
+*.out
+*.bin
+*.json
+*.asc
+*.vcd
